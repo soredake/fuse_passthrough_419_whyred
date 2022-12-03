@@ -1,0 +1,6 @@
+id=fuse_passthrough_whyred
+name=fuse passthrough enabler
+version=1.0
+versionCode=100
+author=soredake
+description=adds prop to enable fuse passthrough on 4.19 kernel
